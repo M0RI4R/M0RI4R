@@ -11,8 +11,3 @@ Skills:   JS / HTML / CSS
 - 🤔 I'm looking for help with getting first commercial experience
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M0RI4R)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M0RI4R&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/M0RI4R)  

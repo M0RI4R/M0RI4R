@@ -8,7 +8,7 @@ I started my adventure with frontend half a year ago and I found it a great way 
 - 🔭 I’m currently working on learning shool website. 
 - 🌱 I’m currently  improving my skills 
 - 🤔 I'm looking for help with getting first commercial experience
-- 📫 How to reach me: Check my [porfolio](m0ri4r.github.io/Portfolio/)
+- 📫 How to reach me: Check my [porfolio](https://m0ri4r.github.io/Portfolio/)
 
 
 ## Skills:   
